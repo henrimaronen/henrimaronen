@@ -1,12 +1,11 @@
 <img src="./pic/banner.gif"></img>
 
-## Keeping it brief.
-- 🔨 Builder
-- 💻 Alumnus of [Hive Helsinki](https://www.hive.fi/en/)
-- ⚡️ Offline, you'll find me:
-  - Absorbing ideas through books and podcasts 📚
-  - Competing on the padel court 🎾
-  - Framing landscapes through a viewfinder 📷
+## About me
+- 💻 Software Engineer at [Wolt](https://wolt.com)
+- 🎓 Alumnus of [Hive Helsinki](https://www.hive.fi/en/) (42 Network)
+- 🔭 Currently building AI Tooling
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/henrimaronen/)
+- 🏔️ Offline: books, podcasts, gym, snowboarding, fishing, photography
 
 ## Side Projects
 
